@@ -1,6 +1,0 @@
-python>=3.8,<3.12
-pandas
-mlxtend
-matplotlib
-seaborn
-notebook
